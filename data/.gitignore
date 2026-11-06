@@ -1,0 +1,3 @@
+# Keep replacement raw exports out of future Git additions.
+*.csv
+*.CSV
